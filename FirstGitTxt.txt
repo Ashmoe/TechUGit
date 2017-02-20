@@ -1,2 +1,3 @@
 Trying to learn git.
-Added new line
+Added new line.
+Adding new line for learning branching.
