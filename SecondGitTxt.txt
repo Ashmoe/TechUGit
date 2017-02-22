@@ -1,1 +1,2 @@
 This is the second git file.
+Second line.
