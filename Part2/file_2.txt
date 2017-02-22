@@ -1,0 +1,3 @@
+first line of my
+text file with 2nd line
+and also a third line
