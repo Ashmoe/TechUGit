@@ -1,0 +1,3 @@
+this is my first line
+and second line
+and my third line of my third file
